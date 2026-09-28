@@ -34,6 +34,6 @@ SQL & Python-based data analysis and problem solving.
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 
-### 📚 Learning
+### 🌱 Interests
 
-Data Analytics · AI · LLM · Automation
+Exploring Data Analytics, Business Analytics, Data Operations & Data PM
